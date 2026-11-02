@@ -1,6 +1,6 @@
 # Tests
 
-Everything here is optional and is not part of the main source archive. This directory comes from the separate `dwarvendash-tests-VERSION.zip`; unpack that archive from the directory that holds the source, so that it adds a `tests/` directory next to `app/`.
+Everything here is optional and is not part of the main repository. This directory is the DwarvenDash-TestSuite repository; clone it into the source directory as `tests/`, so that it sits next to `app/`.
 
 ```bash
 sudo python3 tests/run.py            # everything
